@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //和黄金辣椒;k
     // Do any additional setup after loading the view, typically from a nib.
 }
 
